@@ -1,0 +1,8 @@
+﻿SKU,Name,Price_EGP,Availability,Price_Status,Details_URL,Record_Status
+P001,USB Cable,68.0,In stock,Valid,https://supplier-b.example/products/P001,Valid
+P002,Phone Stand,115.0,In stock,Valid,https://supplier-b.example/products/P002,Valid
+P003,Wired Mouse,40.0,Out of stock,Valid,https://supplier-b.example/products/P003,Valid
+P005,A5 Notebook,22.0,In stock,Valid,https://supplier-b.example/products/P005,Valid
+P007,USB Adapter,88.0,In stock,Valid,https://supplier-b.example/products/P007,Valid
+P010,Screen Cloth,,In stock,Missing,https://supplier-b.example/products/P010,Needs Review
+

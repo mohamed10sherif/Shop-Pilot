@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "SKU": "P001",
+      "Name": "USB Cable",
+      "Category": "Accessories",
+      "Unit cost": 75.0,
+      "Selling price": 120.0,
+      "Stock": 16,
+      "Reorder level": 5,
+      "Image": "USB-Cable.png",
+      "Active": true
+    },
+    {
+      "SKU": "P002",
+      "Name": "Phone Stand",
+      "Category": "Accessories",
+      "Unit cost": 110.0,
+      "Selling price": 180.0,
+      "Stock": 14,
+      "Reorder level": 5,
+      "Image": "Phone-Stand.png",
+      "Active": true
+    },
+    {
+      "SKU": "P003",
+      "Name": "Wired Mouse",
+      "Category": "Electronics",
+      "Unit cost": 45.0,
+      "Selling price": 90.0,
+      "Stock": 18,
+      "Reorder level": 3,
+      "Image": "Wired-Mouse.png",
+      "Active": true
+    },
+    {
+      "SKU": "P004",
+      "Name": "Wireless Mouse",
+      "Category": "Electronics",
+      "Unit cost": 140.0,
+      "Selling price": 220.0,
+      "Stock": 8,
+      "Reorder level": 3,
+      "Image": "Wireless-Mouse.png",
+      "Active": true
+    },
+    {
+      "SKU": "P005",
+      "Name": "A5 Notebook",
+      "Category": "Stationery",
+      "Unit cost": 25.0,
+      "Selling price": 45.0,
+      "Stock": 19,
+      "Reorder level": 5,
+      "Image": "A5-Notebook.png",
+      "Active": true
+    },
+    {
+      "SKU": "P006",
+      "Name": "Gel Pen",
+      "Category": "Stationery",
+      "Unit cost": 15.0,
+      "Selling price": 30.0,
+      "Stock": 28,
+      "Reorder level": 10,
+      "Image": "Gel-Pen.png",
+      "Active": true
+    },
+    {
+      "SKU": "P007",
+      "Name": "USB Adapter",
+      "Category": "Electronics",
+      "Unit cost": 90.0,
+      "Selling price": 135.0,
+      "Stock": 15,
+      "Reorder level": 4,
+      "Image": "USB-Adapter.png",
+      "Active": true
+    },
+    {
+      "SKU": "P008",
+      "Name": "Gift Bag",
+      "Category": "Gifts",
+      "Unit cost": 20.0,
+      "Selling price": 40.0,
+      "Stock": 10,
+      "Reorder level": 4,
+      "Image": "Gift-Bag.png",
+      "Active": true
+    },
+    {
+      "SKU": "P009",
+      "Name": "Keychain",
+      "Category": "Gifts",
+      "Unit cost": 15.0,
+      "Selling price": 35.0,
+      "Stock": 9,
+      "Reorder level": 4,
+      "Image": "Keychain.png",
+      "Active": true
+    },
+    {
+      "SKU": "P010",
+      "Name": "Screen Cloth",
+      "Category": "Accessories",
+      "Unit cost": 10.0,
+      "Selling price": 25.0,
+      "Stock": 5,
+      "Reorder level": 2,
+      "Image": "Screen-Cloth.png",
+      "Active": true
+    },
+    {
+      "SKU": "P011",
+      "Name": "keyboard",
+      "Category": "Electronics",
+      "Unit cost": 400.0,
+      "Selling price": 550.0,
+      "Stock": 9,
+      "Reorder level": 3,
+      "Image": "",
+      "Active": true
+    },
+    {
+      "SKU": "P012",
+      "Name": "Note Book",
+      "Category": "Gifts",
+      "Unit cost": 15.0,
+      "Selling price": 25.0,
+      "Stock": 20,
+      "Reorder level": 5,
+      "Image": "",
+      "Active": true
+    }
+  ]
+}

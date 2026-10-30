@@ -1,0 +1,45 @@
+{
+  "supplier": {
+    "id": "A",
+    "name": "Supplier A"
+  },
+  "currency": "EGP",
+  "observed_at": "2026-10-11T09:00:00",
+  "products": [
+    {
+      "sku": "P001",
+      "offer": {
+        "unit_cost": 70.0,
+        "available": true
+      }
+    },
+    {
+      "sku": "P002",
+      "offer": {
+        "unit_cost": 105.0,
+        "available": true
+      }
+    },
+    {
+      "sku": "P003",
+      "offer": {
+        "unit_cost": 42.0,
+        "available": true
+      }
+    },
+    {
+      "sku": "P004",
+      "offer": {
+        "unit_cost": 135.0,
+        "available": true
+      }
+    },
+    {
+      "sku": "P007",
+      "offer": {
+        "unit_cost": 85.0,
+        "available": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+SKU,Product,Recommended supplier,Recommended unit cost (EGP),Tie rule
+P001,USB Cable,Supplier B,68.0,Lowest cost; supplier name alphabetically for ties
+P002,Phone Stand,Supplier A,105.0,Lowest cost; supplier name alphabetically for ties
+P003,Wired Mouse,Supplier A,42.0,Lowest cost; supplier name alphabetically for ties
+P004,Wireless Mouse,Supplier A,135.0,Lowest cost; supplier name alphabetically for ties
+P005,A5 Notebook,Supplier B,22.0,Lowest cost; supplier name alphabetically for ties
+P006,Gel Pen,No eligible offer,,Lowest cost; supplier name alphabetically for ties
+P007,USB Adapter,Supplier B,88.0,Lowest cost; supplier name alphabetically for ties
+P008,Gift Bag,No eligible offer,,Lowest cost; supplier name alphabetically for ties
+P009,Keychain,No eligible offer,,Lowest cost; supplier name alphabetically for ties
+P010,Screen Cloth,No eligible offer,,Lowest cost; supplier name alphabetically for ties
+P011,keyboard,No eligible offer,,Lowest cost; supplier name alphabetically for ties
+P012,Note Book,No eligible offer,,Lowest cost; supplier name alphabetically for ties

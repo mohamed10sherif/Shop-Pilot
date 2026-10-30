@@ -1,0 +1,148 @@
+{
+    "sales": [
+        {
+            "Sale ID": "S001",
+            "Date": "2026-10-05",
+            "SKU": "P001",
+            "Quantity": 2,
+            "Unit selling price at sale": 120.0,
+            "Unit cost at sale": 75.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S002",
+            "Date": "2026-10-06",
+            "SKU": "P004",
+            "Quantity": 1,
+            "Unit selling price at sale": 220.0,
+            "Unit cost at sale": 140.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S003",
+            "Date": "2026-10-07",
+            "SKU": "P006",
+            "Quantity": 3,
+            "Unit selling price at sale": 30.0,
+            "Unit cost at sale": 15.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S004",
+            "Date": "2026-10-08",
+            "SKU": "P002",
+            "Quantity": 1,
+            "Unit selling price at sale": 180.0,
+            "Unit cost at sale": 110.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S005",
+            "Date": "2026-10-09",
+            "SKU": "P005",
+            "Quantity": 2,
+            "Unit selling price at sale": 45.0,
+            "Unit cost at sale": 25.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S006",
+            "Date": "2026-10-10",
+            "SKU": "P007",
+            "Quantity": 1,
+            "Unit selling price at sale": 135.0,
+            "Unit cost at sale": 90.0,
+            "Discount %": 0
+        },
+        {
+            "Sale ID": "S007",
+            "Date": "2026-10-17",
+            "SKU": "P001",
+            "Quantity": 1,
+            "Unit selling price at sale": 120.0,
+            "Unit cost at sale": 75.0,
+            "Discount %": 10.0
+        },
+        {
+            "Sale ID": "S008",
+            "Date": "2026-10-17",
+            "SKU": "P006",
+            "Quantity": 2,
+            "Unit selling price at sale": 30.0,
+            "Unit cost at sale": 15.0,
+            "Discount %": 10.0
+        },
+        {
+            "Sale ID": "S009",
+            "Date": "2026-10-17",
+            "SKU": "P008",
+            "Quantity": 1,
+            "Unit selling price at sale": 40.0,
+            "Unit cost at sale": 20.0,
+            "Discount %": 0.0
+        },
+        {
+            "Sale ID": "S010",
+            "Date": "2026-10-17",
+            "SKU": "P008",
+            "Quantity": 1,
+            "Unit selling price at sale": 40.0,
+            "Unit cost at sale": 20.0,
+            "Discount %": 0.0
+        },
+        {
+            "Sale ID": "S011",
+            "Date": "2026-10-17",
+            "SKU": "P001",
+            "Quantity": 1,
+            "Unit selling price at sale": 120.0,
+            "Unit cost at sale": 75.0,
+            "Discount %": 5.0
+        },
+        {
+            "Sale ID": "S012",
+            "Date": "2026-10-18",
+            "SKU": "P004",
+            "Quantity": 1,
+            "Unit selling price at sale": 220.0,
+            "Unit cost at sale": 140.0,
+            "Discount %": 2.0
+        },
+        {
+            "Sale ID": "S012",
+            "Date": "2026-10-18",
+            "SKU": "P011",
+            "Quantity": 1,
+            "Unit selling price at sale": 550.0,
+            "Unit cost at sale": 400.0,
+            "Discount %": 2.0
+        },
+        {
+            "Sale ID": "S012",
+            "Date": "2026-10-18",
+            "SKU": "P010",
+            "Quantity": 1,
+            "Unit selling price at sale": 25.0,
+            "Unit cost at sale": 10.0,
+            "Discount %": 2.0
+        },
+        {
+            "Sale ID": "S013",
+            "Date": "2026-10-20",
+            "SKU": "P004",
+            "Quantity": 1,
+            "Unit selling price at sale": 220.0,
+            "Unit cost at sale": 140.0,
+            "Discount %": 20.0
+        },
+        {
+            "Sale ID": "S013",
+            "Date": "2026-10-20",
+            "SKU": "P006",
+            "Quantity": 2,
+            "Unit selling price at sale": 30.0,
+            "Unit cost at sale": 15.0,
+            "Discount %": 20.0
+        }
+    ]
+}
