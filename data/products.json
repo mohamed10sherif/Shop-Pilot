@@ -17,7 +17,7 @@
       "Category": "Accessories",
       "Unit cost": 110.0,
       "Selling price": 180.0,
-      "Stock": 14,
+      "Stock": 13,
       "Reorder level": 5,
       "Image": "Phone-Stand.png",
       "Active": true
@@ -28,7 +28,7 @@
       "Category": "Electronics",
       "Unit cost": 45.0,
       "Selling price": 90.0,
-      "Stock": 18,
+      "Stock": 17,
       "Reorder level": 3,
       "Image": "Wired-Mouse.png",
       "Active": true
@@ -39,7 +39,7 @@
       "Category": "Electronics",
       "Unit cost": 140.0,
       "Selling price": 220.0,
-      "Stock": 8,
+      "Stock": 7,
       "Reorder level": 3,
       "Image": "Wireless-Mouse.png",
       "Active": true
@@ -50,7 +50,7 @@
       "Category": "Stationery",
       "Unit cost": 25.0,
       "Selling price": 45.0,
-      "Stock": 19,
+      "Stock": 17,
       "Reorder level": 5,
       "Image": "A5-Notebook.png",
       "Active": true
@@ -72,7 +72,7 @@
       "Category": "Electronics",
       "Unit cost": 90.0,
       "Selling price": 135.0,
-      "Stock": 15,
+      "Stock": 12,
       "Reorder level": 4,
       "Image": "USB-Adapter.png",
       "Active": true
@@ -94,7 +94,7 @@
       "Category": "Gifts",
       "Unit cost": 15.0,
       "Selling price": 35.0,
-      "Stock": 9,
+      "Stock": 6,
       "Reorder level": 4,
       "Image": "Keychain.png",
       "Active": true
